@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+ 
+    display: flex;
+    margin-left: 50px;
+    
+}
+.head_text{
+    margin: 30px;
+}
+.logo{
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.body_one{
+    height: 150px;
+    width: auto;
+    margin-right: 40px;
+    margin-left: 40px;
+    background: rgb(39, 39, 68);
+    padding-left: 90px;
+    padding-top: 20px;
+    
+}
+.fa-search{
+    margin-left: -20px;
+}
+.image{
+    position: absolute;
+    height: 80px;
+    width: 100px;
+    margin-left: 80px;
+    margin-top: 20px;
+    
+}
+.text_one{
+    color: white;
+    margin-left: 200px;
+}
+.text_two{
+    color: skyblue;
+    margin-left: 200px;
+}
+.laptop{
+    height: 150px;
+    float: right;
+    margin-right: 150px;
+    margin-top: -90px;
+}
+button{
+    background-color: rgb(51, 51, 248);
+    border: none;
+    width: 80px;
+    height: 25px;
+    margin-left: 200px;
+    color: white;
+    
+}
+.body_two{
+    background-color: rgb(219, 242, 245);
+    margin-right: 40px;
+    margin-left: 40px;
+    height: 300px;
+    display: flex;
+}
+.small_block{
+    height: 200px;
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    background-color:lightblue ;
+}
+.block{
+    
+    height: 250px;
+    width: 250px;
+   
+    margin-left: 100PX; 
+    margin-top: 40px;
+    background-color: white;
+}
+.b{
+    background-color: rgb(51, 51, 248);
+    width: 250px;
+    height: 40px;
+}
+.body_head_text{
+    text-align: center; 
+    position: relative;
+    color: white;
+}
+.body_text{
+    text-align: center;
+    margin-top: 100px;
+}
+.link{
+    text-align: center;
+    color: skyblue;
+}
+.bottom{
+    height: 80px;
+    
+    width: auto;
+    background: rgb(39, 39, 68);
+    margin-right: 40px;
+    margin-left: 40px;
+
+}
+.bottom_text{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+.footer{
+    background-color: rgb(65, 64, 64);
+   
+    height: 200px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+}
+.footer_block{
+    height: 20px;
+    width: 200px;
+    
+    
+   margin: auto;
+    margin-left: 80PX; 
+    margin-top: 20px;
+    margin-right: 60px;
+    background-color: gray;
+   
+}
+.footer_block_text{
+    text-align: center;
+    color: white;
+}
+ul{
+    padding: 20px;
+}
+.Contac_list{
+    list-style: none;
+}
+.list{
+   color: gray;
+}
+.footer_logo{
+    height: 130px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
